@@ -9,7 +9,7 @@ public class Starprint {
        {
 		for (int j = i+1; j <=5; j++) 
 		{
-			System.out.print(*);
+			System.out.print("*");
 		}
 	}
 		
